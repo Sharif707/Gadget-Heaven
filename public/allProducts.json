@@ -1,0 +1,135 @@
+[
+    {
+      "product_id": "P001",
+      "product_title": "Dell XPS 13",
+      "product_image": "https://i.ibb.co.com/MMvm9WZ/dell2.webp",
+      "category": "Laptops",
+      "price": 1200,
+      "description": "High-performance ultrabook with a sleek design and powerful features.",
+      "Specification": ["16GB RAM", "512GB SSD", "Intel i7 Processor"],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "P002",
+      "product_title": "Apple MacBook Pro",
+      "product_image": "https://i.ibb.co.com/fFqxLRq/mackbook.webp",
+      "category": "Laptops",
+      "price": 1500,
+      "description": "High-performance laptop with Apple's M1 chip and Retina display.",
+      "Specification": ["8GB RAM", "256GB SSD", "Apple M1 Chip"],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": "P003",
+      "product_title": "Lenovo ThinkPad X1 Carbon",
+      "product_image": "https://i.ibb.co.com/fxZbLzP/lenovo.jpg",
+      "category": "Laptops",
+      "price": 1300,
+      "description": "Durable and portable business laptop with excellent security features.",
+      "Specification": ["16GB RAM", "1TB SSD", "Intel i7 Processor"],
+      "availability": false,
+      "rating": 4.7
+    },
+    {
+      "product_id": "P004",
+      "product_title": "HP Spectre x360",
+      "product_image": "https://i.ibb.co.com/wyps7RJ/hp.webp",
+      "category": "Laptops",
+      "price": 1150,
+      "description": "Convertible 2-in-1 laptop with touchscreen and excellent battery life.",
+      "Specification": ["8GB RAM", "512GB SSD", "Intel i5 Processor"],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "P005",
+      "product_title": "ASUS ROG Zephyrus G14",
+      "product_image": "https://i.ibb.co.com/6wxD4tr/asus.jpg",
+      "category": "Laptops",
+      "price": 1400,
+      "description": "Compact gaming laptop with high refresh rate display and powerful graphics.",
+      "Specification": ["16GB RAM", "1TB SSD", "NVIDIA GeForce GTX 1660"],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "P006",
+      "product_title": "Acer Swift 3",
+      "product_image": "https://i.ibb.co.com/MMvm9WZ/dell2.webp",
+      "category": "Laptops",
+      "price": 750,
+      "description": "Affordable, lightweight laptop with solid performance for everyday use.",
+      "Specification": ["8GB RAM", "256GB SSD", "AMD Ryzen 5"],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": "P007",
+      "product_title": "iPhone 13",
+      "product_image": "https://i.ibb.co.com/b5BsjzR/iphone13.jpg",
+      "category": "Phones",
+      "price": 799,
+      "description": "Apple's latest smartphone with advanced dual-camera system and A15 Bionic chip.",
+      "Specification": ["A15 Bionic Chip", "128GB Storage", "Dual Camera"],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "P008",
+      "product_title": "Samsung Galaxy S21",
+      "product_image": "https://i.ibb.co.com/sCrT0yj/samsungs21.webp",
+      "category": "Phones",
+      "price": 700,
+      "description": "Powerful smartphone with high-resolution display and versatile camera.",
+      "Specification": ["Exynos 2100", "128GB Storage", "Triple Camera"],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "P009",
+      "product_title": "Google Pixel 6",
+      "product_image": "https://i.ibb.co.com/mrKFXxd/pixel.webp",
+      "category": "Phones",
+      "price": 599,
+      "description": "Google's flagship phone with Tensor chip and excellent camera performance.",
+      "Specification": ["Google Tensor Chip", "128GB Storage", "Dual Camera"],
+      "availability": false,
+      "rating": 4.6
+    },
+    {
+      "product_id": "P010",
+      "product_title": "Sony WH-1000XM4",
+      "product_image": "https://i.ibb.co.com/gvfzv4m/sony.jpg",
+      "category": "Headphones",
+      "price": 300,
+      "description": "Premium noise-cancelling headphones with high-resolution audio.",
+      "Specification": ["Bluetooth 5.0", "30 Hours Battery", "Noise Cancelling"],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "P011",
+      "product_title": "Bose QuietComfort 35 II",
+      "product_image": "https://i.ibb.co.com/7rD0nW1/headphones.jpg",
+      "category": "Headphones",
+      "price": 280,
+      "description": "Comfortable noise-cancelling headphones with crystal-clear sound.",
+      "Specification": ["Noise Cancelling", "Bluetooth", "20 Hours Battery"],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "P012",
+      "product_title": "Jabra Elite 85h",
+      "product_image": "https://i.ibb.co.com/PZCLSHK/headphones.jpg",
+      "category": "Headphones",
+      "price": 250,
+      "description": "Durable headphones with active noise cancellation and excellent sound quality.",
+      "Specification": ["Active Noise Cancelling", "Bluetooth", "36 Hours Battery"],
+      "availability": true,
+      "rating": 4.6
+    }
+  ]
+  

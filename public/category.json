@@ -1,0 +1,27 @@
+[
+  {
+    "product_id": "P001",
+    "product_title": "All Products",
+    "category": "All"
+  },
+  {
+    "product_id": "P002",
+    "product_title": "Dell XPS 13",
+    "category": "Laptops"
+  },
+  {
+    "product_id": "P003",
+    "product_title": "iPhone 13",
+    "category": "Phones"
+  },
+  {
+    "product_id": "P004",
+    "product_title": "Jabra Elite 85h",
+    "category": "Headphones"
+  },
+  {
+    "product_id": "P005",
+    "product_title": "Jabra Elite 855h",
+    "category": "Smartwatches"
+  }
+]
